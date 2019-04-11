@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "hairSalon",
+    "packageName": "com.hair.salon",
+    "packageFolder": "com/hair/salon",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "pt-pt",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "NTUyMGZkZmY3ZmNlY2Y5YWYzOTNmNDE2YTIxMmMxYWEwYzM2OTNmYWExMDM5OWJiMmIzZDdlMTcxOGMxZWRiYTI4ZGQ5NjYwMmVkNWM0MGFiODMxNzEwY2VjZjVlZTg1MDUyZGJhOGVkOWMyMGIyODFlZTZkMzk0MTRjOTRhM2U=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "pinheirodps",
+  "repository-name": "hair-salon"
+}
